@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "author": {
-    "name": "Azeez Olaniran"
+    "name": "Sanjay"
   },
   "scripts": {
     "start": "babel-node ./server/server.js",
