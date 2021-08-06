@@ -1,0 +1,30 @@
+body {
+  background: blue;
+  color: red;
+}
+.frame{
+  display: table;
+  position: relative;
+  top: 100px;
+  left: 40%;
+  right: 50%;
+}
+input[type=button]{
+  width: 50px;
+  height: 50px;
+}
+.button-row{
+  width: 300px;
+  margin: 1px;
+}
+.calculator-title{
+  margin-left: 100px;
+}
+.screen-row, input[type=text]{
+  width: 300px;
+  height: 50px;
+  margin-top: 1px;
+  margin-bottom: 10px;
+}
+
+
